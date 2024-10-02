@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2024-10-02T20:03:49.884Z",
+  "created_by": "lwjameson",
+  "title": "S1576, T86-243",
+  "updated_at": "2024-10-02T20:03:49.884Z",
+  "updated_by": "lwjameson",
+  "parent": "551a7cef-d97d-4540-a794-53c671ab191a",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "b0ebd9aa-bd07-4a7b-bfa7-a14fa87c8fcd"
+  }
+}
