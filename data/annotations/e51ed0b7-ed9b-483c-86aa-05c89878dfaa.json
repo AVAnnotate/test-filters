@@ -1,5 +1,4822 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 715,
+      "end_time": 715,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What kind of a song is this, Zora?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e8eff9e8-3d60-4dfe-af31-2b70a64b0656"
+    },
+    {
+      "start_time": 720,
+      "end_time": 720,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "When is it used?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7d859e06-f9e6-4c1e-80e5-2f1750676ba9"
+    },
+    {
+      "start_time": 726,
+      "end_time": 726,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What is the fire dance?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "33be6a5c-2500-4f2b-8d19-7358e54b4a3a"
+    },
+    {
+      "start_time": 735,
+      "end_time": 735,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And how did you happen to learn it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9b99952b-e9da-452e-857b-aab7962c8cf7"
+    },
+    {
+      "start_time": 771,
+      "end_time": 771,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What is this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "093dff4b-3d63-4710-bdd8-a1db66f713b9"
+    },
+    {
+      "start_time": 842,
+      "end_time": 842,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Are those songs sung in Florida as well as in the West Indies?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d1587c71-f827-442f-8cc9-091aaac249c8"
+    },
+    {
+      "start_time": 864,
+      "end_time": 864,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I think it's very interesting that we have inferences from the West Indies as well as the rural South in our Florida Negro folklore."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "aa414d63-64a0-43c9-923f-bc079fae6f21"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3aa91cca-4d7d-4c85-a72f-a1609518436e"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1599,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What is it about? What is it about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ae70c0be-9002-4a7b-924e-72e8fb1b1c9e"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What is it about? What is it about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "44d40177-f7f6-4d39-b673-e1385a331f28"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And did you get this one in [audible]. Did you say that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "678983d9-b182-4ab2-ad74-0ec06544e69b"
+    },
+    {
+      "start_time": 136,
+      "end_time": 136,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The tents were in circles. And each, they were built in circles so as when he'd leave the last tent, he would be at the first tent again. He'd go all around and when he stopped at the last tent, he'd be right back at the first tent again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0be040f5-2e43-48bf-a822-d22d3f740304"
+    },
+    {
+      "start_time": 156,
+      "end_time": 156,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, he was one of the foremans on the job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "12c1db97-7feb-4cfd-80b1-fb5917e9ed43"
+    },
+    {
+      "start_time": 159,
+      "end_time": 159,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "So, they would take turns in arousing the men every morning but this particular man, he would use those phrase."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c98fc0e8-e67f-48a4-a3bc-a5c4be557716"
+    },
+    {
+      "start_time": 167,
+      "end_time": 167,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, he didn't have no expression whatever. [Laughter]. It was just dry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b1b115d1-031c-45b8-82d8-87d8c914aecf"
+    },
+    {
+      "start_time": 179,
+      "end_time": 179,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Come on boys, let's go back to double track. The work ain't hard, and the man ain't mean. The cook ain't nasty, but the grub ain't clean. You sleep on the good beds and you call 'em bunk. You eat my good rations, and you call it junk. So, now let's go back.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c8286e6c-d49a-4834-9f39-531f4bdceb91"
+    },
+    {
+      "start_time": 204,
+      "end_time": 204,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, sometime, when the boss man wouldn't go around himself, he'd send some of the fellas, colored fellas, around to arouse the men. They'd say 'Come on boys, let's go back. Yes, you sleep on his good beds and you call 'em bunk,  You eat his good rations, and you call 'em junk. So, now if I have to call it, you want to fight. Now that white man call it, it's captain alright. Now, let's go back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ed66a5d4-e642-424f-b044-8a82d5ff864d"
+    },
+    {
+      "start_time": 236,
+      "end_time": 236,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "All of these songs that I'm singing, they didn't have no particular title. We just began singing them as the feelings would come on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f6618424-92a8-4f66-a828-63f193cb2efb"
+    },
+    {
+      "start_time": 248,
+      "end_time": 248,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, sometimes the fellas, it'd be near pay day, and some of the fellas would think about going away to another job and they began feeling good. They began singing some of these songs and this one, in particular."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Harold B. Hazelhurst",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "decf1adb-aa36-4c2b-894c-53aee9551d41"
+    },
+    {
+      "start_time": 17,
+      "end_time": 17,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, good. Well now, let's hear it the way that you remember it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3696a57e-14b5-4b80-b6e2-64240a48daef"
+    },
+    {
+      "start_time": 23,
+      "end_time": 23,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Start from the beginning. Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e3c00684-7ab1-4a80-84a6-63d9a691f195"
+    },
+    {
+      "start_time": 103,
+      "end_time": 103,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Tell us about this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fd85b23e-e14a-4676-8878-e92c4e188a5c"
+    },
+    {
+      "start_time": 134,
+      "end_time": 134,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How was the arrangement, how was the arrangement of the tents?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5f9613aa-6e06-4ad8-a61e-689da95f1915"
+    },
+    {
+      "start_time": 155,
+      "end_time": 155,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, he was the foreman of the job?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "07ff36ed-8c2a-43e8-bae0-00e7c39c5543"
+    },
+    {
+      "start_time": 159,
+      "end_time": 159,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh-huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "4f56ad92-f48c-4b49-9d9d-1178fe9a1e9b"
+    },
+    {
+      "start_time": 174,
+      "end_time": 174,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Laughter]. Even if he had no expression, let's hear it again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "800efa90-b6b7-46ce-b01b-ab40006a3ac5"
+    },
+    {
+      "start_time": 202,
+      "end_time": 202,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Tell me when it would be different."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "17b88a41-a98b-489a-99f8-8f76535145d1"
+    },
+    {
+      "start_time": 235,
+      "end_time": 235,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright. Tell us about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "efc8e453-e21a-4b30-939d-8bea56d3edcc"
+    },
+    {
+      "start_time": 244,
+      "end_time": 244,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright, when did the feelings come on for this one?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5ca16d32-3612-4ecf-a307-42f29775772e"
+    },
+    {
+      "start_time": 577,
+      "end_time": 577,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What was that song? When did that song come in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "abf04de1-fa73-4d61-a7ca-b0584bf6b50d"
+    },
+    {
+      "start_time": 584,
+      "end_time": 584,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yeah and who would sing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e0752590-8aa9-4ebd-83b1-9fbc9f27c3c1"
+    },
+    {
+      "start_time": 588,
+      "end_time": 588,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well I mean was there any particular reason for singing this song? Was that at the opening of the church door?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6353d6b7-9908-4d23-98d4-b1ee3141d516"
+    },
+    {
+      "start_time": 596,
+      "end_time": 596,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And this was the song that was used, she would use?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9ccaedc4-af10-46d1-83e0-321a519a98b9"
+    },
+    {
+      "start_time": 598,
+      "end_time": 598,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Would you sing it over again, please?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f8b7bc53-740d-45ca-ad08-7c2e7ae0ba5d"
+    },
+    {
+      "start_time": 635,
+      "end_time": 635,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, speaking about what you're getting ready to, Where'd you hear that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7a4f3b1c-4cea-423e-8fd4-263a7c6eaf6a"
+    },
+    {
+      "start_time": 714,
+      "end_time": 714,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f50e6513-d382-4845-8a5a-73024c1b273c"
+    },
+    {
+      "start_time": 771,
+      "end_time": 771,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You better sing another song of the same kind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "50bc4e3a-c04b-484e-b138-9e5eb066c214"
+    },
+    {
+      "start_time": 777,
+      "end_time": 777,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Wait [distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c28cc2e4-a1e8-45ee-9d2c-b737f4a469bf"
+    },
+    {
+      "start_time": 784,
+      "end_time": 784,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead. Next song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "264b8758-2989-4342-a93e-9af52a91335b"
+    },
+    {
+      "start_time": 787,
+      "end_time": 787,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This little song is a story. Uh, the young lady thinks that it's time for them to get married. in fact, she thinks they just have to and the boy doesn't want to marry and so this song is about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9976c76f-234d-49fc-80ce-6d64639dc3f5"
+    },
+    {
+      "start_time": 923,
+      "end_time": 923,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, Mr. Pages, Will you tell me where are the people from?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7cf35505-637c-4f41-8e2f-e2f3199147e3"
+    },
+    {
+      "start_time": 937,
+      "end_time": 937,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, will you, can you, tell me in their performance do they play some of the old songs? The traditional songs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f5b2ab2d-4472-4a9a-a103-37b1b1239d0b"
+    },
+    {
+      "start_time": 950,
+      "end_time": 950,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Good. Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6a13256e-f109-45bc-9a92-f653c006b32e"
+    },
+    {
+      "start_time": 971,
+      "end_time": 971,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, stay there. How long has she known this song?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5653a753-c8a1-4a88-8256-53d59dbf61bd"
+    },
+    {
+      "start_time": 981,
+      "end_time": 981,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, you go up there and ask her. You ask her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "341dc4c2-4437-4db8-9d46-14501dc30ce2"
+    },
+    {
+      "start_time": 986,
+      "end_time": 986,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead and ask her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a45ab0a2-b209-4262-8ecf-900121ab8bdc"
+    },
+    {
+      "start_time": 987,
+      "end_time": 987,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Sure. Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cd60d2d2-2267-4c7b-9a45-5fc39da8c0a3"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Explain that to us what she said."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "445a9c06-f458-465d-aa0a-7da8088a9fbc"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1270,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible] Explain what that song tells us [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8ede4ed9-f243-42fa-9c70-1439d5cd8935"
+    },
+    {
+      "start_time": 1311,
+      "end_time": 1311,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How is it, how is it accompanied when it is heard in Cuba?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fd9fed8e-331e-4f6c-8d4a-4b2b54c0e67b"
+    },
+    {
+      "start_time": 1331,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And that song is part of the regular [inaudible] around cane?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2ef725ef-f0b8-409a-a5b6-ef761bacbb9c"
+    },
+    {
+      "start_time": 1341,
+      "end_time": 1341,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Is it sung in Cuba by the whites or by the negroes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "507c59ce-95ba-4691-83d7-46d44567de01"
+    },
+    {
+      "start_time": 1353,
+      "end_time": 1353,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What's that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3cc81e21-ca5a-4296-bdb7-a509bb871d24"
+    },
+    {
+      "start_time": 1366,
+      "end_time": 1366,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Thank you, Mr. Pages [distortion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8701f7aa-fdcb-47c6-a771-f94df526aadd"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What do you mean by mix the tribes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "694b5743-f25b-40f0-8388-304499eea165"
+    },
+    {
+      "start_time": 1409,
+      "end_time": 1409,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "He doesn't want to have children from the other tribe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "da6a459e-274e-4e8a-802b-218a7bcc1d3e"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1571,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6cdaa55e-de9e-4dce-9729-babf88c142b4"
+    },
+    {
+      "start_time": 1593,
+      "end_time": 1593,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now would you explain, translate what the words of the song are, what the words of the song are about? Roughly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "bdc2197e-5802-4966-ba14-191bb2bc4832"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1599,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Roughly, just offhand what does it say?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f3aecebf-4787-4df2-9e51-16f61b711335"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "If you give me a chance. Would you cut it out? [Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ebb92ed5-93cb-48ac-bd1a-2b0386e06faf"
+    },
+    {
+      "start_time": 1610,
+      "end_time": 1610,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d059e3a7-9b62-4e88-b005-1c34bb24ad0d"
+    },
+    {
+      "start_time": 1642,
+      "end_time": 1642,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9701d604-9624-45e9-a008-19c2211ac811"
+    },
+    {
+      "start_time": 1733,
+      "end_time": 1733,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Can you stand up there and explain, give me names [inaudible]? The manager. Can you give his name?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "2e0b2a7a-72ad-4b49-931d-bed36203d734"
+    },
+    {
+      "start_time": 1754,
+      "end_time": 1754,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now, can you tell m, what type of song is it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fb735574-686d-40ac-ad2a-8f7bcdc0e4f1"
+    },
+    {
+      "start_time": 1768,
+      "end_time": 1768,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And, uh, where is it learned and how is such a song learned?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a54c01df-e3dc-4d36-8162-de86b34b0c73"
+    },
+    {
+      "start_time": 1782,
+      "end_time": 1782,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now, can you tell what it's about that song? What does it say?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6ce5ff63-8bda-4428-a13e-03bca4928ed1"
+    },
+    {
+      "start_time": 1816,
+      "end_time": 1816,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, did you get the words from them?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "997a0781-f02a-49bf-ac8e-71455fc20f23"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1818,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Ask them what the words are and you translate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "55a4ebf2-f4da-40d0-aeab-be71de5244e7"
+    },
+    {
+      "start_time": 1913,
+      "end_time": 1913,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Just tell him, tell him --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c6b71e02-67e2-4e93-9bf7-88fb7434186a"
+    },
+    {
+      "start_time": 1919,
+      "end_time": 1919,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And Art Pages, a pianist, was giving the announcement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c63c2f66-6898-4ceb-897d-b997ee4f61a2"
+    },
+    {
+      "start_time": 2085,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b5477bb1-bdde-4fa4-baa6-709cd278ab61"
+    },
+    {
+      "start_time": 2098,
+      "end_time": 2098,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where did you learn that song?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a3ded8fc-17b4-43fe-b162-38b364969015"
+    },
+    {
+      "start_time": 2101,
+      "end_time": 2101,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Go ahead and sing it to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "025d1158-7239-4f3e-a6d3-79446bb8de61"
+    },
+    {
+      "start_time": 2134,
+      "end_time": 2134,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[inaudible] the last lines of that song, Mr. Roberts. Repeat it for me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a31bcf09-6a58-4e96-bdcf-c8d2ecde7fe8"
+    },
+    {
+      "start_time": 2144,
+      "end_time": 2144,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "You said there's something in my . . . there's something in my hammond."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a2f3c4e5-5b50-4822-b960-44da6fb36629"
+    },
+    {
+      "start_time": 2162,
+      "end_time": 2162,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What did you mean by that last line?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ebd00db6-fbc5-4f3a-9683-7d401d244818"
+    },
+    {
+      "start_time": 2339,
+      "end_time": 2339,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What song are you going to sing next, Mr. Roberts?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f9952c11-69a5-4a2f-b973-6286318b3788"
+    },
+    {
+      "start_time": 2421,
+      "end_time": 2421,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Will you tell us the riddle that you're talking about, Mr. Roberts?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8fc5a7a6-d068-4869-8b10-6fb71dca3c20"
+    },
+    {
+      "start_time": 2426,
+      "end_time": 2426,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That's right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6e21d3e1-474c-44b6-b6a4-70f9b1bd8410"
+    },
+    {
+      "start_time": 2774,
+      "end_time": 2774,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0e49e029-35b6-4a59-a4f9-a0710db44ba1"
+    },
+    {
+      "start_time": 3333,
+      "end_time": 3333,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "He was the one who told you that story?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "258f3848-2983-4efb-bdb7-4a6b69f31e1f"
+    },
+    {
+      "start_time": 3335,
+      "end_time": 3335,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Was he a Puerto Rican?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ffcdd4ef-ecf9-4d92-9700-fe7338135d4f"
+    },
+    {
+      "start_time": 3339,
+      "end_time": 3339,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How'd he come to tell it to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f79ab7f2-c289-4efc-9141-21ff5b12d778"
+    },
+    {
+      "start_time": 3345,
+      "end_time": 3345,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Where were you then?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "deeada40-b19c-45e6-9d60-63bd6be471b2"
+    },
+    {
+      "start_time": 3378,
+      "end_time": 3378,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What part of the Bahamas Where were you born, Mr. Roberts? What part of the Bahamas? How far from Nassau?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5ea57f8e-0f09-4a6f-921d-54e1550257a9"
+    },
+    {
+      "start_time": 3385,
+      "end_time": 3385,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, Abacos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e52748f7-1825-4843-ad6a-f9be22bf6e73"
+    },
+    {
+      "start_time": 3389,
+      "end_time": 3389,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How far from Nassau?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "ba032b39-fabe-4dc2-9759-776eb735fd86"
+    },
+    {
+      "start_time": 3399,
+      "end_time": 3399,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "go ahead and tell us this riddle, then."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0c225880-5c33-4099-bc5e-51fa8fcc46ce"
+    },
+    {
+      "start_time": 3467,
+      "end_time": 3467,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What's the answer to the riddle?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Herbert Halpert",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f12ef707-0f49-4f68-bb51-bd379bc2e5db"
+    },
+    {
+      "start_time": 900,
+      "end_time": 900,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What Mr. Gilberto [inaudible] just said is that he is manager of a Latin group now playing at the Cuban Club in Tampa Florida who are going to sing for you some of their traditional Cuban songs.  I am the pianist of the unit, Art Pages, and will play some of them for you myself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "333ea054-cfd3-4b7b-bf87-a7f6227bb94c"
+    },
+    {
+      "start_time": 928,
+      "end_time": 928,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, all these units, all of the actors in the unit are all native Cubans and they came from Cuba two or three months ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "1e941c81-26ad-452a-9ada-68245ff3e6cd"
+    },
+    {
+      "start_time": 943,
+      "end_time": 943,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "They have to for they are requested to do so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "c835e23e-be9d-4bee-8dac-8893225114f3"
+    },
+    {
+      "start_time": 951,
+      "end_time": 951,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, the melody that Estella [inaudible] will sing for you next is a typical Cuban melody. This is sung in the country by the peasants. It's probably uh . . . I don't know what to say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "a7f58e4b-d423-4714-a8fc-95a33d16539b"
+    },
+    {
+      "start_time": 976,
+      "end_time": 976,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, that, she's probably heard it all her life from her parents and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "793ae37f-16e8-4474-a509-42dccc399ef8"
+    },
+    {
+      "start_time": 984,
+      "end_time": 984,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Do you want me to do that in Spanish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "4c3cdb42-765c-4b36-a943-5ca6997fcbe2"
+    },
+    {
+      "start_time": 986,
+      "end_time": 986,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "In Spanish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "69595599-6ae3-4422-938b-c1f5ded87f3f"
+    },
+    {
+      "start_time": 989,
+      "end_time": 989,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "AP asks question in Spanish and Estella responds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "43a543a5-10cb-4880-ac48-82b0707029e3"
+    },
+    {
+      "start_time": 1011,
+      "end_time": 1011,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, she has said that she has, uh, heard that melody, of course, recently due to the fact that she is very young but she has heard her parents say that have heard it for years and years back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "8a0cae10-25c9-4383-b608-ee448ae9c6fe"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Estella [inaudible] will sing this melody for you now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "378a883b-e785-4f0f-8842-9611b8632e38"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1109,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, the Cuban persons use songs to call on their loved ones especially at night or in the morning. The song that Estella [inaudible] sang is one of them. Uh, roughly, it is morning and he is singing to his loved one and though he claims that the sun is just out and he can see everything clearly, it seems like there is nothing around until he's seen her [distortion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "f0227143-ac0e-4642-9cda-8ea4c9535d4c"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 1279,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The young man that you have just heard sing is Carlos Poz. He is the blackfaced comedian of the unit, of the Cuban unit. He just sung for you a typical African song, songs that were sung by the slaves when they were brought to Cuba and he has picked that from tradition. That is, he has heard that type of song over and over.  It is always heard in Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "8de56525-5b39-428f-a7f2-819d1b264f7c"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, they usually use Cuban drums and gourds and sticks like they used to use in the days of the slaves when they didn't have any musical instruments and they were accompanied by sticks and drums and so on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "28abd6e0-cc07-4717-abad-0738545e8100"
+    },
+    {
+      "start_time": 1334,
+      "end_time": 1334,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "It is. We use it here, we use that type of songs here often."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "cda33705-6281-40b7-af45-779b81c93f3e"
+    },
+    {
+      "start_time": 1345,
+      "end_time": 1345,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, no, they, uh, it has been picked from the negroes but it is used by actors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "1064ed0c-03c8-40be-baa6-629b646c8134"
+    },
+    {
+      "start_time": 1356,
+      "end_time": 1356,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, they love it. It's such a strange rhythm to most of all people that they prefer to hear that song to any other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "842552ce-dc23-4fff-a2e3-83cec5db30a7"
+    },
+    {
+      "start_time": 1372,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, the song that you have just heard Carlos Poz sing, it's sort of a negro song. It is a negro telling his girl not to mix with another, uh, tribe, because he does not consider them as good as they are and does not want to, uh,  mix the tribes. And --"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "6e5d2a5a-817b-4cc2-8252-11f1ba8dbad9"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, he does that, it seems like the, uh, girl is in love with someone and she, uh, goes to a nearby tribe and he does not want her to continue to go over there and he is asking her to please stay in her, in their grounds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "d8ddd8bd-8339-4311-a560-0512773e7e42"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1411,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "That's right [laughter] [distortion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "5df72f65-16fe-451d-9a60-018d4baff9a5"
+    },
+    {
+      "start_time": 1540,
+      "end_time": 1540,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The song you have just heard was sung by [inaudible] Martinez. The name of the song is 'Merce'. It is a different type of song that have been sung before, for this one is dance, in dance halls in Cuba, that is that rhythm. You have also heard some Cuban drums played by Roman [inaudible] and Mr. Delfino was playing gourds and I was at the piano, Art Pages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "38fbbf8b-761d-4eef-b7ac-b692f040fcd9"
+    },
+    {
+      "start_time": 1572,
+      "end_time": 1572,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Carlos Poz helped her out by helping her sing in the montonu, that is the fast part of the number. The number is divided into two parts. The first part is sung a little slower than the second part. The second part is a little faster. They keep on getting faster until, uh, it takes up to a very fast tempo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "2c3f12b1-be92-4749-acbe-0f23498b4ad9"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The idea of the song is uh, the name of the song is 'Merce' and that's a, uh, name, a proper name. It's a negro girl's name and she is supposed to be the most popular of the party and the song refers to her popularity, that is her way of dancing and acting and speaking and so forth and everybody sings to her beauty and her pep, would you say? And the whole song is based on  her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "55a2913e-9e17-4585-b22c-1e8daaf3b702"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, the song that you heard was sung by Gilberto Elfino, manager of the unit. And the name of the song is 'Nena'."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "afd97077-820c-4196-9865-c6c591bb6c19"
+    },
+    {
+      "start_time": 1757,
+      "end_time": 1757,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, this is probably the oldest type of Cuban song that has ever, uh, that has been known to be the oldest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "4fbaa449-3bd3-499a-9685-680e0034f3b3"
+    },
+    {
+      "start_time": 1771,
+      "end_time": 1771,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, there is no way of tracing it to its author or its originality. It has just been picked from one generation to the other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "9a404981-bd67-4488-8520-d04562b130d5"
+    },
+    {
+      "start_time": 1787,
+      "end_time": 1787,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, I don't know [distortion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "9292b0ac-1420-40b8-95be-7a240838bbd9"
+    },
+    {
+      "start_time": 1802,
+      "end_time": 1802,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, this is a typical song that is sung to a girl by a window, a Spanish, uh, window. And that's about all I know about the song."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "37d1620a-4734-4123-a2ff-7b5fe19388fb"
+    },
+    {
+      "start_time": 1817,
+      "end_time": 1817,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "No, I couldn't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "1506c56e-d438-4fd0-b9a4-c6bed673145e"
+    },
+    {
+      "start_time": 1835,
+      "end_time": 1835,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "He just sing to her and telling her how much he loves her, and uh, i other words, uh, calling her to the window in order to start a conversation or something, a song to start a conversation [distortion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "a8091ffa-49b5-4efc-b606-3c1957ef46f5"
+    },
+    {
+      "start_time": 1852,
+      "end_time": 1852,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "We are now going to give you an idea of the different Cuban rhythms. The first one is a song, that's a slow rumba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "64fc09ff-234c-496d-8997-7238af81312a"
+    },
+    {
+      "start_time": 1871,
+      "end_time": 1871,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Now, he would play a rumba. That's a faster rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "ae93ed7f-b5ba-453c-aacc-d35af7e6f10a"
+    },
+    {
+      "start_time": 1881,
+      "end_time": 1881,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And now a bembe. That's a typical African rhythm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "f5b77015-a613-4220-84d2-afc87532848c"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 1892,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And now, a conga."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "bce9149e-fc9c-4fd9-bef5-8c91673b47f1"
+    },
+    {
+      "start_time": 1903,
+      "end_time": 1903,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And now, man. This is probably the oldest rhythm going."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "1bd25241-d2de-4baa-9fd9-9b2653b20db3"
+    },
+    {
+      "start_time": 1915,
+      "end_time": 1915,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This was done by Ramon [inaudible] a Cuban drummer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art Pages"
+        }
+      ],
+      "uuid": "b4c18585-fe63-4605-a6fa-35a2e5b82127"
+    },
+    {
+      "start_time": 618,
+      "end_time": 618,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh Zora Hurston speaking. In all the big work camps, sawmills, and turpentine, still, and road camps and whatnot they have a man to go down and wake up the camp. And he has various chants and hollers to wake them up and sometimes he wakes them up as he goes along."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e2196f5c-5c9d-4cec-9db4-3053a5427104"
+    },
+    {
+      "start_time": 640,
+      "end_time": 640,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, I heard these at Loughman, a big sawmill down state in Polk County."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "843a9f0c-ef20-4d5c-a5a8-14fc95f5b9e5"
+    },
+    {
+      "start_time": 717,
+      "end_time": 717,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "This is a Nassau song from the Bahamas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d6a48b9e-fdbc-46e5-b730-80bd7488325f"
+    },
+    {
+      "start_time": 721,
+      "end_time": 721,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, they sing this song when they're jumping the fire dance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c6df6191-1b83-4811-b5dc-d51078875439"
+    },
+    {
+      "start_time": 728,
+      "end_time": 728,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The fire dance is some sort of African survival in the West Indies and they beat the drums and sing these little songs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9733d13b-1c7f-4cb3-95e0-4c7df4b33382"
+    },
+    {
+      "start_time": 737,
+      "end_time": 737,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, I was doing research down there, collecting songs out of Columbia University and I collected quite a few of them and this is just one of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9128f8dc-845f-4e26-aea2-3a30ed937b13"
+    },
+    {
+      "start_time": 764,
+      "end_time": 764,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "And they keep that up until the drum is cold and then they change it and they sing another song of the same kind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "9918c564-d690-478c-a721-7273683b220f"
+    },
+    {
+      "start_time": 773,
+      "end_time": 773,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Uh, this one, this song is [distortion]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "71ed3a41-275e-441f-8fb9-be50e8f5a2ad"
+    },
+    {
+      "start_time": 847,
+      "end_time": 847,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes, Dr. Corse. Uh, they are sung in Key West and Miami and Palm Beach and out in the Everglades where a great number of Nassaus are working in the bean fields and whatnot. Uh, there are a great number of them in Florida who hold jumping dances every week."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "18d1afa3-53d4-459f-93ee-6b3845087a50"
+    },
+    {
+      "start_time": 365,
+      "end_time": 365,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Distortion",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "951889ac-fb88-4d89-9292-dce9efff4063"
+    },
+    {
+      "start_time": 1932,
+      "end_time": 1932,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Distortion]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Distortion",
+          "category": "Sound"
+        }
+      ],
+      "uuid": "310b7ea4-699b-4484-b55c-8490b3f7b68a"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man speaks in Spanish"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3bacc3e0-75ef-4414-8010-caefe148a283"
+    },
+    {
+      "start_time": 1796,
+      "end_time": 1796,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Man speaks in Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "e5a06c4b-6a21-4ff3-b9b4-c0955f2e53e9"
+    },
+    {
+      "start_time": 1821,
+      "end_time": 1821,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Men speak Spanish"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Unknown",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "01ca29ae-74c7-4bdd-afb6-974e715e8e3f"
+    },
+    {
+      "start_time": 2090,
+      "end_time": 2090,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Roberts (R): A very long time ago I learned about a funny song, that's all I know. If you like funny songs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "8430bef2-f991-4582-b532-4299a6b9cb01"
+    },
+    {
+      "start_time": 2099,
+      "end_time": 2099,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I learned it all in the [inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "800bf49c-6656-4e84-aeec-4253f02c9e78"
+    },
+    {
+      "start_time": 2139,
+      "end_time": 2139,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The last lines?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "41b29c29-2d08-4427-8764-daf2f222db53"
+    },
+    {
+      "start_time": 2154,
+      "end_time": 2154,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "yes [inaudible]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "3dd7e7f2-5d52-43b1-8641-2e3181b90eb5"
+    },
+    {
+      "start_time": 2165,
+      "end_time": 2165,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I meant that uh, to clear my throat. There's something in my hammond, see? And then I said [clears throat], There's something in my hammond, See? That's the end of the song when I said there's something in my hammond."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "0b2b0fd4-7d8e-40c2-9058-aa750784558f"
+    },
+    {
+      "start_time": 2343,
+      "end_time": 2343,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Sweet Robin One Morning in May' [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "11e78439-4645-4eb6-b427-408992a57c6a"
+    },
+    {
+      "start_time": 2394,
+      "end_time": 2394,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible] down the well and he'd sit there down in the well and they'd call his name so when after he got a song up [inaudible] and he said it so much, he said, 'Is that your name, Betty?' Oh, he said, 'that's my name Betty.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "3c8a3ab5-27ee-4676-9665-646c00885bfc"
+    },
+    {
+      "start_time": 2425,
+      "end_time": 2425,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Oh, about the men?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "39af9d71-1a36-4e13-9646-ef2ead3efb5a"
+    },
+    {
+      "start_time": 2428,
+      "end_time": 2459,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "How a fellow knows about his name [Distortion] He'd look in the well and then see his picture in the well and he'd say [inaudible] He said these words [inaudible] 'Is that your name, Betty?' Oh, he said, 'that's my name Betty.' That was the first time he ever told anybody's name."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "f1eb9723-93ce-44fa-a7af-31b80b552847"
+    },
+    {
+      "start_time": 2816,
+      "end_time": 2816,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "What do you want me to sing now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "8250d490-5387-405f-b3b0-baba017f699e"
+    },
+    {
+      "start_time": 2986,
+      "end_time": 2986,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Feel like I could give you a sample [inaudible]. I'm going to sing it now, eh?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "d1d40f77-1d34-4242-8393-da36a81d87ae"
+    },
+    {
+      "start_time": 3184,
+      "end_time": 3184,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Well, I want to tell you just about how good tobacco is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "7063ecdf-fb67-4ba6-a0db-07e3dcccf75c"
+    },
+    {
+      "start_time": 3326,
+      "end_time": 3326,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": ". . . up there, up there from where the hurricanes always start from, what's it called, Puerto Rico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "5140bb1e-57d8-4ed9-bac0-91ac40dd0021"
+    },
+    {
+      "start_time": 3334,
+      "end_time": 3334,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "70ea104f-3495-4ff6-88a1-1af949e5fd6d"
+    },
+    {
+      "start_time": 3336,
+      "end_time": 3336,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "f44519b7-6057-4f3a-beeb-d7ace7addd1c"
+    },
+    {
+      "start_time": 3340,
+      "end_time": 3340,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I don't know [laughter]. Just setting down talking to him one day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "8221e91c-58dd-4789-929a-de28df568093"
+    },
+    {
+      "start_time": 3346,
+      "end_time": 3346,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I was here in Florida and he was in Florida too [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "35eb86ec-dcdc-49d3-b521-9df3b0fd81c5"
+    },
+    {
+      "start_time": 3381,
+      "end_time": 3381,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "I was born in the Abacos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "fae59398-b031-45dc-8d80-a7abec2c264f"
+    },
+    {
+      "start_time": 3386,
+      "end_time": 3386,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible] part of Abacos, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "9e28f4d5-b430-45e5-a30c-bf4aa19c1755"
+    },
+    {
+      "start_time": 3392,
+      "end_time": 3392,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "About a hundred miles from Nassau [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "f5e9a230-6910-4050-bb0c-ef47da1c2899"
+    },
+    {
+      "start_time": 3469,
+      "end_time": 3469,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "The answer to the riddle [inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Roberts"
+        }
+      ],
+      "uuid": "bf322637-ebf3-454e-b226-07d3c2f674a5"
+    },
+    {
+      "start_time": 2664,
+      "end_time": 2664,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "b65f62f6-ab58-42e6-8ed7-c3399afd88eb"
+    },
+    {
+      "start_time": 2842,
+      "end_time": 2842,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "c9cdd8a0-9684-4eff-bebd-058145db4267"
+    },
+    {
+      "start_time": 2945,
+      "end_time": 2945,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "b1af2eed-ac23-4aca-9905-2f894c875793"
+    },
+    {
+      "start_time": 3113,
+      "end_time": 3113,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "b06264eb-f2a2-4ebb-b3ff-0772e5fac11c"
+    },
+    {
+      "start_time": 3170,
+      "end_time": 3170,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "97307bec-1c15-4b1b-8e16-4ef4699bcfb7"
+    },
+    {
+      "start_time": 3359,
+      "end_time": 3359,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "d740820b-309e-44ea-b812-3f119b12897b"
+    },
+    {
+      "start_time": 3363,
+      "end_time": 3363,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "a750bc14-751f-4fcd-8d35-183fd08086ec"
+    },
+    {
+      "start_time": 3372,
+      "end_time": 3372,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        }
+      ],
+      "uuid": "56616856-b551-4f43-872c-f2282e362dba"
+    },
+    {
+      "start_time": 372,
+      "end_time": 372,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "During the early days of the settlers in South Carolina, Buford County, when the church was first established there, before there were schools and seminaries, why the preachers preached mostly by imagination, and as I've been in contact during my boyhood days with quite a few settlers from that part of the state, I've learned this sermon how an old minister use to preach it a long time ago and instead of being able to reiterate from the bible, he just imagined something and went on to preach it in a form of dialect as I shall give you now as near as I can imitate him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "H. W. Stuckey",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c857a408-b44d-4ce2-a86a-7fe3c6d45f5a"
+    },
+    {
+      "start_time": 580,
+      "end_time": 580,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "[Laughter] On the close of the sermon, they open the doors of the church after he got through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "H. W. Stuckey",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f20828cc-6c8f-4b60-8355-9530cada559b"
+    },
+    {
+      "start_time": 586,
+      "end_time": 586,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Old sister in the corner."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "H. W. Stuckey",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0faabf94-f828-428f-be5a-74aea6160bfa"
+    },
+    {
+      "start_time": 593,
+      "end_time": 593,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "At the opening of the church door according to the members, the church members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "H. W. Stuckey",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3f430ec5-646b-4bce-a090-dc7064b49615"
+    },
+    {
+      "start_time": 884,
+      "end_time": 884,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "Gilberto"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gilberto"
+        }
+      ],
+      "uuid": "5d51e778-2873-45ab-b31c-df1556ad32c6"
+    }
+  ],
   "event_id": "b0ebd9aa-bd07-4a7b-bfa7-a14fa87c8fcd",
   "set": "Set Two",
   "source_id": "c57b7a53-5903-4e63-bf7e-05f0c1cf09e6"
