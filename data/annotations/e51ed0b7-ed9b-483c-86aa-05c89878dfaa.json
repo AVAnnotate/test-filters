@@ -4829,7 +4829,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Beatrice Lange",
+          "category": "Speaker"
+        }
+      ],
       "uuid": "6149573b-7bb3-458c-85bb-526fe178ddb4"
     }
   ],
