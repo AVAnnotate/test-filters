@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-18T19:25:22.978Z",
+  "created_by": "lwjameson",
+  "title": "Test",
+  "slug": "test",
+  "updated_at": "2024-10-18T19:25:22.978Z",
+  "updated_by": "lwjameson",
+  "parent": "551a7cef-d97d-4540-a794-53c671ab191a",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "23caadb3-0602-42f3-a948-6920b1ac2f91"
+  }
+}

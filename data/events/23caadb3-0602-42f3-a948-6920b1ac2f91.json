@@ -1,0 +1,28 @@
+{
+  "audiovisual_files": {
+    "e0953133-76fd-460d-a81b-be343c9a0fcd": {
+      "label": "Test",
+      "is_offline": true,
+      "file_url": "",
+      "duration": 90
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Test"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Test",
+  "created_at": "2024-10-18T19:25:22.679Z",
+  "created_by": "lwjameson",
+  "updated_at": "2024-10-18T19:25:22.679Z",
+  "updated_by": "lwjameson"
+}
